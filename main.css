@@ -1,0 +1,10 @@
+[data-task-number] {
+    font-size: 14px;
+}
+
+[data-task-number="0"] {
+    font-size: 22px;
+}
+
+<li class="task" >
+[class="1"]
